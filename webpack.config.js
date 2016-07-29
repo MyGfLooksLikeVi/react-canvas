@@ -8,7 +8,8 @@ module.exports = {
     'timeline': ['./examples/timeline/app.js'],
     'gradient': ['./examples/gradient/app.js'],
     'css-layout': ['./examples/css-layout/app.js'],
-    'custom-draw': ['./examples/custom-draw/app.js']
+    'custom-draw': ['./examples/custom-draw/app.js'],
+    'hover': ['./examples/hover/app.js']
   },
 
   output: {
